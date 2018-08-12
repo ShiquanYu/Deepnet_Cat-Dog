@@ -1,0 +1,226 @@
+(10400, 32, 32, 3) (10864, 32, 32, 3) (4024, 32, 32, 3) (3800, 32, 32, 3) (47103, 32, 32, 3)
+self.train_data.shape = (58366, 32, 32, 3)
+self.train_lable.shape = (58367, 2)
+self.test_data.shape = (17824, 32, 32, 3)
+self.test_lable.shape = (17824, 2)
+step 0, training accuracy 0.56
+____________________
+System time :2018-08-12 20:01:56
+time per batch:  0.628985881805
+step 1000, training accuracy 0.86
+____________________
+System time :2018-08-12 20:02:29
+time per batch:  32.936715126
+step 2000, training accuracy 0.84
+____________________
+System time :2018-08-12 20:03:02
+time per batch:  33.3153829575
+step 3000, training accuracy 0.93
+____________________
+System time :2018-08-12 20:03:35
+time per batch:  33.3640589714
+step 4000, training accuracy 0.89
+____________________
+System time :2018-08-12 20:04:08
+time per batch:  32.9229660034
+step 5000, training accuracy 0.96
+____________________
+System time :2018-08-12 20:04:41
+time per batch:  32.6715040207
+step 6000, training accuracy 0.99
+____________________
+System time :2018-08-12 20:05:14
+time per batch:  32.7374930382
+step 7000, training accuracy 0.99
+____________________
+System time :2018-08-12 20:05:46
+time per batch:  32.7388460636
+step 8000, training accuracy 0.98
+____________________
+System time :2018-08-12 20:06:19
+time per batch:  32.6598238945
+step 9000, training accuracy 1
+____________________
+System time :2018-08-12 20:06:52
+time per batch:  32.7187108994
+test accuracy 0.988
+____________________
+System time :2018-08-12 20:07:25
+Model saved in file:  model_data/model.ckpt
+step 10000, training accuracy 1
+____________________
+System time :2018-08-12 20:07:25
+time per batch:  33.0331521034
+step 11000, training accuracy 1
+____________________
+System time :2018-08-12 20:07:58
+time per batch:  32.7000210285
+step 12000, training accuracy 1
+____________________
+System time :2018-08-12 20:08:30
+time per batch:  32.7806479931
+step 13000, training accuracy 1
+____________________
+System time :2018-08-12 20:09:03
+time per batch:  32.7982900143
+step 14000, training accuracy 0.97
+____________________
+System time :2018-08-12 20:09:36
+time per batch:  32.7612800598
+step 15000, training accuracy 1
+____________________
+System time :2018-08-12 20:10:09
+time per batch:  32.7122609615
+step 16000, training accuracy 0.96
+____________________
+System time :2018-08-12 20:10:41
+time per batch:  32.7593748569
+step 17000, training accuracy 1
+____________________
+System time :2018-08-12 20:11:14
+time per batch:  32.7567751408
+step 18000, training accuracy 1
+____________________
+System time :2018-08-12 20:11:47
+time per batch:  32.6955628395
+step 19000, training accuracy 1
+____________________
+System time :2018-08-12 20:12:20
+time per batch:  32.7933311462
+test accuracy 0.992
+____________________
+System time :2018-08-12 20:12:53
+Model saved in file:  model_data/model.ckpt
+step 20000, training accuracy 0.99
+____________________
+System time :2018-08-12 20:12:53
+time per batch:  33.0900280476
+step 21000, training accuracy 1
+____________________
+System time :2018-08-12 20:13:25
+time per batch:  32.8009300232
+step 22000, training accuracy 1
+____________________
+System time :2018-08-12 20:13:58
+time per batch:  32.7270758152
+step 23000, training accuracy 1
+____________________
+System time :2018-08-12 20:14:31
+time per batch:  32.8047711849
+step 24000, training accuracy 1
+____________________
+System time :2018-08-12 20:15:04
+time per batch:  32.7692768574
+step 25000, training accuracy 1
+____________________
+System time :2018-08-12 20:15:36
+time per batch:  32.7227549553
+step 26000, training accuracy 1
+____________________
+System time :2018-08-12 20:16:09
+time per batch:  32.8258240223
+step 27000, training accuracy 1
+____________________
+System time :2018-08-12 20:16:42
+time per batch:  32.836810112
+step 28000, training accuracy 1
+____________________
+System time :2018-08-12 20:17:15
+time per batch:  32.8148260117
+step 29000, training accuracy 1
+____________________
+System time :2018-08-12 20:17:48
+time per batch:  32.7106509209
+test accuracy 0.9865
+____________________
+System time :2018-08-12 20:18:21
+Model saved in file:  model_data/model.ckpt
+step 30000, training accuracy 0.99
+____________________
+System time :2018-08-12 20:18:21
+time per batch:  33.0777730942
+step 31000, training accuracy 1
+____________________
+System time :2018-08-12 20:18:54
+time per batch:  32.7721560001
+step 32000, training accuracy 1
+____________________
+System time :2018-08-12 20:19:26
+time per batch:  32.7139358521
+step 33000, training accuracy 1
+____________________
+System time :2018-08-12 20:19:59
+time per batch:  32.758234024
+step 34000, training accuracy 1
+____________________
+System time :2018-08-12 20:20:32
+time per batch:  32.7611260414
+step 35000, training accuracy 1
+____________________
+System time :2018-08-12 20:21:05
+time per batch:  32.7676010132
+step 36000, training accuracy 1
+____________________
+System time :2018-08-12 20:21:37
+time per batch:  32.7066190243
+step 37000, training accuracy 1
+____________________
+System time :2018-08-12 20:22:10
+time per batch:  32.7924590111
+step 38000, training accuracy 1
+____________________
+System time :2018-08-12 20:22:43
+time per batch:  32.7932858467
+step 39000, training accuracy 1
+____________________
+System time :2018-08-12 20:23:16
+time per batch:  32.7100660801
+test accuracy 0.991
+____________________
+System time :2018-08-12 20:23:49
+Model saved in file:  model_data/model.ckpt
+step 40000, training accuracy 1
+____________________
+System time :2018-08-12 20:23:49
+time per batch:  33.0437879562
+step 41000, training accuracy 1
+____________________
+System time :2018-08-12 20:24:21
+time per batch:  32.8117029667
+step 42000, training accuracy 1
+____________________
+System time :2018-08-12 20:24:54
+time per batch:  32.8051822186
+step 43000, training accuracy 1
+____________________
+System time :2018-08-12 20:25:27
+time per batch:  32.7192349434
+step 44000, training accuracy 1
+____________________
+System time :2018-08-12 20:26:00
+time per batch:  32.7967898846
+step 45000, training accuracy 1
+____________________
+System time :2018-08-12 20:26:32
+time per batch:  32.7847549915
+step 46000, training accuracy 1
+____________________
+System time :2018-08-12 20:27:05
+time per batch:  32.7248330116
+step 47000, training accuracy 1
+____________________
+System time :2018-08-12 20:27:38
+time per batch:  32.7934770584
+step 48000, training accuracy 1
+____________________
+System time :2018-08-12 20:28:11
+time per batch:  32.807420969
+step 49000, training accuracy 1
+____________________
+System time :2018-08-12 20:28:44
+time per batch:  32.790241003
+test accuracy 0.9965
+____________________
+System time :2018-08-12 20:29:17
+Model saved in file:  model_data/model.ckpt
+test accuracy 0.998033
